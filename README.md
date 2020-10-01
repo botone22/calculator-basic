@@ -1,2 +1,3 @@
 Basic Calculator
-made using Html Js Css
+made using HTML JS CSS.
+https://akashkalala.github.io/calculator-basic/
