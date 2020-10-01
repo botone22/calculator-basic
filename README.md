@@ -1,2 +1,2 @@
-Basic Calculater
+Basic Calculator
 made using Html Js Css
